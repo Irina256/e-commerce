@@ -34,5 +34,5 @@ This project is for anyone wants a back-end api for their front-end site
 
 Created by: [irina256](https://github.com/irina256)
 
-[images](images\TagsByID.png)
-[images](images\Products.png)
+![images](images/TagsByID.png)
+![images](images/Products.png)
