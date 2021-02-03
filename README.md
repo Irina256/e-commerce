@@ -30,6 +30,8 @@ This project is for anyone wants a back-end api for their front-end site
 - Step 7: Open Insomnia core
 - Step 8: You can create, read, update, and delete categories, tags, and products
 
+Walkthrough video:
+https://drive.google.com/file/d/1GqSl8A1c6lwEpJLL3mjHef9-0pM9IPzZ/view
 ## Credits
 
 Created by: [irina256](https://github.com/irina256)
